@@ -1,0 +1,4 @@
+limit_submissions: -1
+required_files: 
+  - minimize_merge_time.h
+  - are_permutations.h
